@@ -33,9 +33,9 @@ mvn package -DskipTests=true
 
 Once the app starts, go to the web browser and visit `http://localhost:3395/home`
 
-Admin username: **admin**
+Admin username: **ibtisam**
 
-Admin password: **admin**
+Admin password: **ibtisam**
 
 User username: **user**
 
