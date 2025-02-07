@@ -33,6 +33,8 @@ mvn package -DskipTests=true
 
 Once the app starts, go to the web browser and visit `http://localhost:3395/home`
 
+`src/main/resources/application.properties`
+
 Admin username: **ibtisam**
 
 Admin password: **ibtisam**
