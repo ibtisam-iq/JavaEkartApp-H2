@@ -1,5 +1,5 @@
 # Spring Boot Shopping Cart Web App
-# EkartWebApp-Java-3Tier
+# EkartWebApp-Java
 
 ## About
 
